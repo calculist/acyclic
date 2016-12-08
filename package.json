@@ -1,0 +1,19 @@
+{
+  "name": "acyclic",
+  "version": "0.0.1",
+  "description": "simple dependency injection",
+  "author": "Dan Allison <dan@calculist.io>",
+  "main": "./acyclic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calculist/acyclic.git"
+  },
+  "dependencies": {
+    "lodash": "~4.11.1"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
